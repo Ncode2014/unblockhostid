@@ -5,7 +5,7 @@
 
 ```
 Fixed bug on Netflix
-Imroved hosts list on Reddit
+Improved hosts list on Reddit
 Updated GoodbyeDPI on app version.
 ```
 
